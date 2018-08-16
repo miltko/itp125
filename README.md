@@ -47,7 +47,7 @@ For female:
     [1] '... but she'll get back to you as soon as she can.'
     [2] 'Thanks for calling.'
 
-    The program will check to confirm that the choices, whether given via the
+  The program will check to confirm that the choices, whether given via the
 command line or selected within the program, are correct. The only time the
 program will quit is if the inputs on the command line had the incorrect number
 of arguments, or the number of arguments was correct but something in there was
