@@ -1,4 +1,4 @@
-ITP 125 Final Project - Read Me
+ITP 125 Final Project -
 December 8th, 2016
 
 The Old Spice voice message program can be run in two different ways:
