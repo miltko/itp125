@@ -1,5 +1,3 @@
-Aneta Miltko
-ID: 6636570883
 ITP 125 Final Project - Read Me
 December 8th, 2016
 
